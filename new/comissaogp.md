@@ -10,7 +10,7 @@ Planejamento
 
 ### Descrição/Justificativa
 
-Criação de uma Comissão de Gestão de Pessoas para que atue mais rapidamente e efetivamente nos problemas entre pessoas do grupo e contribuir com o desenvolvimento pessoal dos petianos.
+Criação de uma Comissão de Gestão de Pessoas para que atue mais rapidamente e efetivamente nos problemas pessoais do grupo contribuindo também com o desenvolvimento pessoal dos petianos.
 
 
 ### Objetivos
@@ -22,7 +22,7 @@ Criação de uma Comissão de Gestão de Pessoas para que atue mais rapidamente 
 
 ### Metodologia
 
-A Comissão, formada por duas ou três pessoas, atuará com a criação de formulários de feedback e concedendo um feedback geral, para cada petiano, a cada 30 dias, com seus pontos positivos e negativos, em reuniões de 15 à 30 minutos, marcadas invidualmente. Deve existir uma semana para enviar preencher os formulários, sendo que não é obrigatório que todos preencham.
+A Comissão, formada por duas ou três pessoas, atuará com a criação de formulários de feedback e concedendo um feedback geral, para cada petiano, a cada 30 dias, com seus pontos positivos e negativos, em reuniões de 15 à 30 minutos, marcadas invidualmente. Haverá todo mês uma semana para preenchimento dos formulários, sendo que não é obrigatório que todos os petianos preencham.
 
 
 ### Resultados Esperados
@@ -34,7 +34,7 @@ A Comissão, formada por duas ou três pessoas, atuará com a criação de formu
 
 ### Metodologia de Avaliação
 
-Avaliação a cada 3 meses com os petianos, por meio de feedback, a respeito da comissão.
+Avaliação a cada 3 meses dos petianos, por meio de feedback, a respeito da comissão.
 
 Relatório Final (Avaliação)
 ---------------------------
